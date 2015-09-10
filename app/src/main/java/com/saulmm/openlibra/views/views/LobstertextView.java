@@ -8,7 +8,7 @@ import android.widget.TextView;
 /**
  * Created by saulmm on 25/01/15.
  */
-public class LobsterTextView extends TextView {
+class LobsterTextView extends TextView {
     public LobsterTextView(Context context) {
 
         super(context);
